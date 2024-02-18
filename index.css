@@ -6,14 +6,10 @@
     margin-left: 25%;
 }
 
-
-
 body {
     /* Background color for the entire page (body) */
     background-color: #f0f0f0; /* You can use color names, hexadecimal, RGB, or HSL values */
 }
-
-
 
 .container-section .objective {
         color: purple;
