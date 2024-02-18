@@ -6,11 +6,30 @@
     margin-left: 25%;
 }
 
-.container-section{
 
+
+body {
+    /* Background color for the entire page (body) */
+    background-color: #f0f0f0; /* You can use color names, hexadecimal, RGB, or HSL values */
 }
 
+
+
+.container-section .objective {
+        color: purple;
+    }
+    
+.container-section .education {
+        color: pink;
+    }
+
+.container-section .experience {
+        color:lightseagreen;
+}
+
+.container-section .skills {
+        color: lightsteelblue;
+}
 .name {
-    color: coral;
+    color: plum;
 }
-
